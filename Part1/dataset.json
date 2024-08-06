@@ -1,0 +1,93 @@
+[
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the European Union."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the European Union.",
+      "id": "mdr_1",
+      "question": "What does apply to MDR/the regulation?",
+      "title": "Scope of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 4 of the MDR, for this Regulation, medical devices, accessories for medical devices, and products listed in Annex XVI to which this Regulation applies under paragraph 2 shall be referred to as 'devices.'"]
+      },
+      "context": "According to Chapter 1, Article 1, Section 4 of the MDR, for this Regulation, medical devices, accessories for medical devices, and products listed in Annex XVI to which this Regulation applies under paragraph 2 shall be referred to as 'devices.'",
+      "id": "mdr_2",
+      "question": "What is the purpose of MDR/the regulation?",
+      "title": "Purpose of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Sections 2 and 3 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9, to the groups of products without an intended medical purpose that are listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph. Devices with both a medical and a non-medical intended purpose shall fulfil the requirements applicable to devices with an intended medical purpose and those relevant to devices cumulatively without an intended medical purpose."]
+      },
+      "context": "According to Chapter 1, Article 1, Sections 2 and 3 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9, to the groups of products without an intended medical purpose that are listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph. Devices with both a medical and a non-medical intended purpose shall fulfil the requirements applicable to devices with an intended medical purpose and those relevant to devices cumulatively without an intended medical purpose.",
+      "id": "mdr_3",
+      "question": "What does MDR/the regulation cover?",
+      "title": "Coverage of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, article 1, section 6 (a) of the MDR, this Regulation does not apply to in vitro diagnostic medical devices covered by Regulation (EU) 2017/746."]
+      },
+      "context": "According to Chapter 1, article 1, section 6 (a) of the MDR, this Regulation does not apply to in vitro diagnostic medical devices covered by Regulation (EU) 2017/746.",
+      "id": "mdr_4",
+      "question": "Does MDR/the regulation cover in vitro?",
+      "title": "In Vitro Coverage"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 6 (e) of the MDR, this Regulation does not apply to cosmetic products covered by Regulation (EC) No 1223/2009."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 6 (e) of the MDR, this Regulation does not apply to cosmetic products covered by Regulation (EC) No 1223/2009.",
+      "id": "mdr_5",
+      "question": "Does MDR/the regulation cover cosmetics?",
+      "title": "Cosmetics Coverage"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 6 (i) of the MDR, this Regulation does not apply to food covered by Regulation (EC) No 178/2002."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 6 (i) of the MDR, this Regulation does not apply to food covered by Regulation (EC) No 178/2002.",
+      "id": "mdr_6",
+      "question": "Does MDR/the regulation cover food?",
+      "title": "Food Coverage"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 15 of the MDR, this Regulation shall not affect national law concerning the organisation, delivery, or financing of health services and medical care, such as the requirement that specific devices may only be supplied on a medical prescription, the requirement that only certain health professionals or healthcare institutions may dispense or use certain devices or that their use be accompanied by specific professional counselling."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 15 of the MDR, this Regulation shall not affect national law concerning the organisation, delivery, or financing of health services and medical care, such as the requirement that specific devices may only be supplied on a medical prescription, the requirement that only certain health professionals or healthcare institutions may dispense or use certain devices or that their use be accompanied by specific professional counselling.",
+      "id": "mdr_7",
+      "question": "Does MDR/the regulation supersede national laws?",
+      "title": "National Law Impact"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 2 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9 to the groups of products without an intended medical purpose that is listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 2 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9 to the groups of products without an intended medical purpose that is listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph.",
+      "id": "mdr_8",
+      "question": "Does MDR/the regulation apply to clinical investigations?",
+      "title": "Clinical Investigations"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the Union. This regulation does not apply to the US."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the Union. This regulation does not apply to the US.",
+      "id": "mdr_9",
+      "question": "Does MDR/the regulation apply to the US?",
+      "title": "US Applicability"
+    }
+  ]
+  
