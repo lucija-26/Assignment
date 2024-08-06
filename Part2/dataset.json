@@ -1,0 +1,253 @@
+[
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the European Union."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the European Union.",
+      "id": "mdr_1",
+      "question": "What does apply to MDR/the regulation?",
+      "title": "Scope of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 4 of the MDR, for this Regulation, medical devices, accessories for medical devices, and products listed in Annex XVI to which this Regulation applies under paragraph 2 shall be referred to as 'devices.'"]
+      },
+      "context": "According to Chapter 1, Article 1, Section 4 of the MDR, for this Regulation, medical devices, accessories for medical devices, and products listed in Annex XVI to which this Regulation applies under paragraph 2 shall be referred to as 'devices.'",
+      "id": "mdr_2",
+      "question": "What is the purpose of MDR/the regulation?",
+      "title": "Purpose of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Sections 2 and 3 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9, to the groups of products without an intended medical purpose that are listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph. Devices with both a medical and a non-medical intended purpose shall fulfil the requirements applicable to devices with an intended medical purpose and those relevant to devices cumulatively without an intended medical purpose."]
+      },
+      "context": "According to Chapter 1, Article 1, Sections 2 and 3 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9, to the groups of products without an intended medical purpose that are listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph. Devices with both a medical and a non-medical intended purpose shall fulfil the requirements applicable to devices with an intended medical purpose and those relevant to devices cumulatively without an intended medical purpose.",
+      "id": "mdr_3",
+      "question": "What does MDR/the regulation cover?",
+      "title": "Coverage of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, article 1, section 6 (a) of the MDR, this Regulation does not apply to in vitro diagnostic medical devices covered by Regulation (EU) 2017/746."]
+      },
+      "context": "According to Chapter 1, article 1, section 6 (a) of the MDR, this Regulation does not apply to in vitro diagnostic medical devices covered by Regulation (EU) 2017/746.",
+      "id": "mdr_4",
+      "question": "Does MDR/the regulation cover in vitro?",
+      "title": "In Vitro Coverage"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 6 (e) of the MDR, this Regulation does not apply to cosmetic products covered by Regulation (EC) No 1223/2009."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 6 (e) of the MDR, this Regulation does not apply to cosmetic products covered by Regulation (EC) No 1223/2009.",
+      "id": "mdr_5",
+      "question": "Does MDR/the regulation cover cosmetics?",
+      "title": "Cosmetics Coverage"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 6 (i) of the MDR, this Regulation does not apply to food covered by Regulation (EC) No 178/2002."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 6 (i) of the MDR, this Regulation does not apply to food covered by Regulation (EC) No 178/2002.",
+      "id": "mdr_6",
+      "question": "Does MDR/the regulation cover food?",
+      "title": "Food Coverage"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 15 of the MDR, this Regulation shall not affect national law concerning the organisation, delivery, or financing of health services and medical care, such as the requirement that specific devices may only be supplied on a medical prescription, the requirement that only certain health professionals or healthcare institutions may dispense or use certain devices or that their use be accompanied by specific professional counselling."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 15 of the MDR, this Regulation shall not affect national law concerning the organisation, delivery, or financing of health services and medical care, such as the requirement that specific devices may only be supplied on a medical prescription, the requirement that only certain health professionals or healthcare institutions may dispense or use certain devices or that their use be accompanied by specific professional counselling.",
+      "id": "mdr_7",
+      "question": "Does MDR/the regulation supersede national laws?",
+      "title": "National Law Impact"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 2 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9 to the groups of products without an intended medical purpose that is listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 2 of the MDR, this Regulation shall also apply, from the date of application of standard specifications adopted under Article 9 to the groups of products without an intended medical purpose that is listed in Annex XVI, taking into account state of the art, and in particular existing harmonised standards for analogous devices with a medical purpose, based on similar technology. The standard specifications for each of the groups of products listed in Annex XVI shall address, at least, the application of risk management as set out in Annex I for the group of products in question and, where necessary, clinical evaluation regarding safety. The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest. Notwithstanding Article 122, Member States' measures regarding the qualification of the products covered by Annex XVI as medical devices under Directive 93/42/EEC shall remain valid until the date of application, as referred to in the first subparagraph, of the relevant standard specifications for that group of products. This Regulation also applies to clinical investigations conducted in the Union concerning the products referred to in the first subparagraph.",
+      "id": "mdr_8",
+      "question": "Does MDR/the regulation apply to clinical investigations?",
+      "title": "Clinical Investigations"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the Union. This regulation does not apply to the US."]
+      },
+      "context": "According to Chapter 1, Article 1, Section 1 of the MDR, this Regulation lays down rules concerning the placing on the market, making available on the market, or putting into service medical devices for human use and accessories for such devices in the European Union. This Regulation also applies to clinical investigations concerning medical devices and accessories in the Union. This regulation does not apply to the US.",
+      "id": "mdr_9",
+      "question": "Does MDR/the regulation apply to the US?",
+      "title": "US Applicability"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["This Regulation aims to ensure the smooth functioning of the internal market as regards medical devices, taking as a base a high level of protection of health for patients and users, and taking into account the small- and medium-sized enterprises that are active in this sector. At the same time, this Regulation sets high standards of quality and safety for medical devices in order to meet common safety concerns as regards such products."]
+      },
+      "context": "This Regulation aims to ensure the smooth functioning of the internal market as regards medical devices, taking as a base a high level of protection of health for patients and users, and taking into account the small- and medium-sized enterprises that are active in this sector. At the same time, this Regulation sets high standards of quality and safety for medical devices in order to meet common safety concerns as regards such products.",
+      "id": "mdr_10",
+      "question": "What is the aim of the MDR in terms of market and safety?",
+      "title": "Aim of MDR"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["The scope of application of this Regulation should be clearly delimited from other Union harmonisation legislation concerning products, such as in vitro diagnostic medical devices, medicinal products, cosmetics, and food."]
+      },
+      "context": "The scope of application of this Regulation should be clearly delimited from other Union harmonisation legislation concerning products, such as in vitro diagnostic medical devices, medicinal products, cosmetics, and food.",
+      "id": "mdr_11",
+      "question": "What products are excluded from the MDR scope?",
+      "title": "Exclusions from MDR Scope"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["For historical reasons, active implantable medical devices, covered by Directive 90/385/EEC, and other medical devices, covered by Directive 93/42/EEC, were regulated in two separate legal instruments. In the interest of simplification, both directives, which have been amended several times, should be replaced by a single legislative act applicable to all medical devices other than in vitro diagnostic medical devices."]
+      },
+      "context": "For historical reasons, active implantable medical devices, covered by Directive 90/385/EEC, and other medical devices, covered by Directive 93/42/EEC, were regulated in two separate legal instruments. In the interest of simplification, both directives, which have been amended several times, should be replaced by a single legislative act applicable to all medical devices other than in vitro diagnostic medical devices.",
+      "id": "mdr_12",
+      "question": "What historical reasons are mentioned for having separate directives?",
+      "title": "Historical Directives"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest."]
+      },
+      "context": "The necessary standard specifications shall be adopted by 26 May 2020. They shall apply six months after they enter into force or from 26 May 2020, whichever is the latest.",
+      "id": "mdr_13",
+      "question": "When shall the necessary standard specifications be adopted?",
+      "title": "Adoption of Standard Specifications"
+    },
+    {
+      "answers": {
+        "answer_start": [0],
+        "text": ["This Regulation does not seek to harmonise rules relating to the further making available on the market of medical devices after they have already been put into service such as in the context of second-hand sales."]
+      },
+      "context": "This Regulation does not seek to harmonise rules relating to the further making available on the market of medical devices after they have already been put into service such as in the context of second-hand sales.",
+      "id": "mdr_14",
+      "question": "Does the MDR regulate second-hand sales of medical devices?",
+      "title": "Second-Hand Sales Regulation"
+    }, 
+    {
+    "answers": {
+      "answer_start": [0],
+      "text": ["In accordance with Chapter 1, Article 2, Section 1 of the MDR, 'medical device' means any instrument, apparatus, appliance, software, implant, reagent, material, or other article intended by the manufacturer to be used, alone or in combination, for human beings for one or more of the specific medical purposes of diagnosis, prevention, monitoring, prediction, prognosis, treatment, or alleviation of disease."]
+    },
+    "context": "In accordance with Chapter 1, Article 2, Section 1 of the MDR, 'medical device' means any instrument, apparatus, appliance, software, implant, reagent, material, or other article intended by the manufacturer to be used, alone or in combination, for human beings for one or more of the specific medical purposes of diagnosis, prevention, monitoring, prediction, prognosis, treatment, or alleviation of disease.",
+    "id": "mdr_15",
+    "question": "What is the definition of a medical device according to the MDR?",
+    "title": "Definition of Medical Device"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["Chapter 1, Article 2, Section 2 of the MDR defines 'accessory for a medical device' as an article which, whilst not being itself a medical device, is intended by its manufacturer to be used together with one or several particular medical devices to specifically enable the medical device to be used in accordance with its intended purpose or to specifically and directly assist the medical functionality of the medical device in terms of its intended purpose."]
+    },
+    "context": "Chapter 1, Article 2, Section 2 of the MDR defines 'accessory for a medical device' as an article which, whilst not being itself a medical device, is intended by its manufacturer to be used together with one or several particular medical devices to specifically enable the medical device to be used in accordance with its intended purpose or to specifically and directly assist the medical functionality of the medical device in terms of its intended purpose.",
+    "id": "mdr_16",
+    "question": "How does the MDR define an accessory for a medical device?",
+    "title": "Definition of Accessory for Medical Device"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["According to Chapter 1, Article 2, Section 3 of the MDR, 'implantable device' means any device, including those that are partially or wholly absorbed, which is intended to be totally introduced into the human body or to replace an epithelial surface or the surface of the eye by clinical intervention and which is intended to remain in place after the procedure. It also includes any device intended to be partially introduced into the human body through surgery and intended to remain in place after the procedure for at least 30 days."]
+    },
+    "context": "According to Chapter 1, Article 2, Section 3 of the MDR, 'implantable device' means any device, including those that are partially or wholly absorbed, which is intended to be totally introduced into the human body or to replace an epithelial surface or the surface of the eye by clinical intervention and which is intended to remain in place after the procedure. It also includes any device intended to be partially introduced into the human body through surgery and intended to remain in place after the procedure for at least 30 days.",
+    "id": "mdr_17",
+    "question": "What is the definition of an implantable device in the MDR?",
+    "title": "Definition of Implantable Device"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["Chapter 1, Article 2, Section 8 of the MDR defines 'intended purpose' as the use for which a device is intended according to the data supplied by the manufacturer on the label, in the instructions, and/or in promotional or sales materials or statements."]
+    },
+    "context": "Chapter 1, Article 2, Section 8 of the MDR defines 'intended purpose' as the use for which a device is intended according to the data supplied by the manufacturer on the label, in the instructions, and/or in promotional or sales materials or statements.",
+    "id": "mdr_18",
+    "question": "What does 'intended purpose' mean according to the MDR?",
+    "title": "Definition of Intended Purpose"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["According to Chapter 1, Article 2, Section 7 of the MDR, 'label' means the written, printed, or graphic information appearing either on the device itself, or on the packaging of each unit, or on the packaging of multiple devices."]
+    },
+    "context": "According to Chapter 1, Article 2, Section 7 of the MDR, 'label' means the written, printed, or graphic information appearing either on the device itself, or on the packaging of each unit, or on the packaging of multiple devices.",
+    "id": "mdr_19",
+    "question": "What is the definition of 'label' in the MDR?",
+    "title": "Definition of Label"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["Chapter 1, Article 2, Section 12 of the MDR defines 'clinical investigation' as any systematic investigation involving one or more human subjects, undertaken to assess the safety or performance of a device."]
+    },
+    "context": "Chapter 1, Article 2, Section 12 of the MDR defines 'clinical investigation' as any systematic investigation involving one or more human subjects, undertaken to assess the safety or performance of a device.",
+    "id": "mdr_20",
+    "question": "What is the definition of a clinical investigation in the MDR?",
+    "title": "Definition of Clinical Investigation"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["According to Chapter 1, Article 2, Section 23 of the MDR, 'market surveillance' means the activities carried out and measures taken by competent authorities to ensure that devices comply with the requirements set out in the applicable Union harmonisation legislation and do not endanger health, safety, or any other aspect of public interest protection."]
+    },
+    "context": "According to Chapter 1, Article 2, Section 23 of the MDR, 'market surveillance' means the activities carried out and measures taken by competent authorities to ensure that devices comply with the requirements set out in the applicable Union harmonisation legislation and do not endanger health, safety, or any other aspect of public interest protection.",
+    "id": "mdr_21",
+    "question": "What does 'market surveillance' mean according to the MDR?",
+    "title": "Definition of Market Surveillance"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["Chapter 1, Article 2, Section 60 of the MDR states that 'placing on the market' means the first making available of a device, other than an investigational device, on the Union market."]
+    },
+    "context": "Chapter 1, Article 2, Section 60 of the MDR states that 'placing on the market' means the first making available of a device, other than an investigational device, on the Union market.",
+    "id": "mdr_22",
+    "question": "What is the definition of 'placing on the market' in the MDR?",
+    "title": "Definition of Placing on the Market"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["According to Chapter 1, Article 2, Section 61 of the MDR, 'making available on the market' means any supply of a device, other than an investigational device, for distribution, consumption, or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge."]
+    },
+    "context": "According to Chapter 1, Article 2, Section 61 of the MDR, 'making available on the market' means any supply of a device, other than an investigational device, for distribution, consumption, or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge.",
+    "id": "mdr_23",
+    "question": "How does the MDR define 'making available on the market'?",
+    "title": "Definition of Making Available on the Market"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["According to Chapter 1, Article 2, Section 72 of the MDR, 'sponsor' means any individual, company, institution, or organisation which takes responsibility for the initiation, for the management and for setting up the financing of the clinical investigation."]
+    },
+    "context": "According to Chapter 1, Article 2, Section 72 of the MDR, 'sponsor' means any individual, company, institution, or organisation which takes responsibility for the initiation, for the management and for setting up the financing of the clinical investigation.",
+    "id": "mdr_24",
+    "question": "What is the definition of a sponsor in the MDR?",
+    "title": "Definition of Sponsor"
+  },
+  {
+    "answers": {
+      "answer_start": [0],
+      "text": ["According to Chapter 1, Article 2, Section 73 of the MDR, 'subject' means an individual who participates in a clinical investigation either as a recipient of an investigational device or as a control."]
+    },
+    "context": "According to Chapter 1, Article 2, Section 73 of the MDR, 'subject' means an individual who participates in a clinical investigation either as a recipient of an investigational device or as a control.",
+    "id": "mdr_25",
+    "question": "What does 'subject' mean according to the MDR?",
+    "title": "Definition of Subject"
+  }
+  ]
+  
