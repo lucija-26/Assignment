@@ -1,7 +1,7 @@
 # Assignment
-Required:
-transformers
-evaluate
-datasets
-torch
-accelerate -U
+Required:\
+transformers\
+evaluate\
+datasets\
+torch\
+accelerate -U\
