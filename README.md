@@ -4,4 +4,4 @@ transformers\
 evaluate\
 datasets\
 torch\
-accelerate -U\
+accelerate -U
